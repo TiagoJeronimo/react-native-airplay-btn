@@ -16,7 +16,8 @@ RCT_EXPORT_MODULE();
 
     MPVolumeView *volumeView = [[MPVolumeView alloc] init];
     volumeView.showsVolumeSlider = false;
-
+    
+    [volumeView setRouteButtonImage: [UIImage imageNamed:@"airplay.png"] forState:UIControlStateNormal];
     return volumeView;
 
 }

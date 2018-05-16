@@ -1,20 +1,52 @@
 {
-  "name": "react-native-airplay-btn",
-  "description": "AirPlay library for iOS",
-  "version": "0.1.2",
+  "_args": [
+    [
+      "react-native-airplay-btn@1.0.4",
+      "/Users/tiagojeronimosilva/Runtime_projects/water"
+    ]
+  ],
+  "_from": "react-native-airplay-btn@1.0.4",
+  "_id": "react-native-airplay-btn@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-wnkWfjvuOXBrLFAQiau8QS9wm41l1mOT1EKhwhlLfK3XrFxPDq3ao9UuvG6nKT3jCqPwAlU6knLlqEGgzFo2sg==",
+  "_location": "/react-native-airplay-btn",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-airplay-btn@1.0.4",
+    "name": "react-native-airplay-btn",
+    "escapedName": "react-native-airplay-btn",
+    "rawSpec": "1.0.4",
+    "saveSpec": null,
+    "fetchSpec": "1.0.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-airplay-btn/-/react-native-airplay-btn-1.0.4.tgz",
+  "_spec": "1.0.4",
+  "_where": "/Users/tiagojeronimosilva/Runtime_projects/water",
   "author": {
     "name": "Nadia Dillon"
   },
-  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ndillon1/react-native-airplay-btn/issues"
+  },
+  "dependencies": {},
+  "description": "AirPlay library for iOS",
+  "homepage": "https://github.com/ndillon1/react-native-airplay-btn#readme",
   "keywords": [
     "react-native",
     "ios",
     "AirPlay"
   ],
+  "license": "MIT",
   "main": "index",
+  "name": "react-native-airplay-btn",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ndillon1/react-native-airplay-btn.git"
+    "url": "git+ssh://git@github.com/ndillon1/react-native-airplay-btn.git"
   },
-  "dependencies": {}
+  "version": "1.0.4"
 }
